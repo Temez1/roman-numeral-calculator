@@ -34,7 +34,7 @@ The rest of the files are configuration files for the project, except the index.
 
 ## Testing
 
-The files with ".test.tsx" ending contains the test corresponding to the filename being tested. You can run all the tests files with
+The files with ".test.tsx" ending contain the tests corresponding to the filename being tested. You can run all the test files with
 
 ```bash
 npm run test
